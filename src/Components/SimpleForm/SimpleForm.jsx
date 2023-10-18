@@ -14,10 +14,6 @@ const SimpleForm = () => {
         console.log('Email: ', email, 'Password: ', password)
     }
 
-
-
-
-
   return (
     //* VA TODO NUESTRO DISEÑO HTML
     //? PASO #1: CREAR EL FORMUALRIO BASE EN JSX
