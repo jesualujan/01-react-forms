@@ -11,7 +11,7 @@ const ReactHookForm = () => {
         lastName: ,
         age: ,
         password: ,
-        gender: 
+        gender: ,
   }.required())
 
 
